@@ -1,0 +1,13 @@
+{
+  "name": "simple_docker_node_app",
+  "version": "1.0.0",
+  "description": "Node.js app using Docker",
+  "author": "Eswara Yerra <yev.kesavarao@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
