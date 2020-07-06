@@ -1,0 +1,6 @@
+env="dev"
+aws_region="us-east-1"
+start_cidr="11.10"
+domain="kesavadomain.com"
+product_code="devops"
+env_size="xsmall"
